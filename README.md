@@ -50,5 +50,3 @@ A fully responsive and feature-rich **Expense Tracker App** built using the **ME
 - **Authentication:** JWT (JSON Web Tokens)
 - **Charting Library:** Chart.js or Recharts (based on tutorial)
 - **Excel Export:** SheetJS (xlsx)
-
----
